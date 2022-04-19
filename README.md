@@ -34,4 +34,4 @@ JDBC, Java, Servlets. </li>
 <img src="https://user-images.githubusercontent.com/63285005/164077892-aff990f0-ba03-42c4-b431-e67c5643845c.png" height="70%" width="70%">
 <img src="https://user-images.githubusercontent.com/63285005/164077865-204ed115-3c27-4950-b49c-583feb673837.png" height="70%" width="70%">
 
-<b>3 months internship in Higradius was a rollercoaster journey, and it was a great learning experience. In the end succesfully completed the project.</b> ❤
+<b>3 months internship in Highradius was a rollercoaster journey, and it was a great learning experience. In the end succesfully completed the project.</b> ❤
